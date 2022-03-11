@@ -2,4 +2,4 @@
 
 ## Model Architecture
 
-![Model](https://github.com/savindi-wijenayaka/UNET-implementation/blob/main/images/model.png?raw=true)
+![Model](https://github.com/savindi-wijenayaka/UNET-implementation/blob/main/images/UNET.png?raw=true)
